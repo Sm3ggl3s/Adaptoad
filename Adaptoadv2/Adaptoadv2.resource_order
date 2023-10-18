@@ -1,4 +1,8 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_pond","order":1,"path":"sprites/spr_pond/spr_pond.yy",},
+    {"name":"obj_pond","order":1,"path":"objects/obj_pond/obj_pond.yy",},
+    {"name":"Main_Level","order":1,"path":"rooms/Main_Level/Main_Level.yy",},
+  ],
 }
