@@ -21,7 +21,7 @@ if(keyboard_check_pressed(vk_up) and instance_place(x, y+1, obj_block)){
 }
 
 //Double Jump
-if(doubleJump and jumpCounter < 1 and keyboard_check_pressed(vk_up) and !instance_place(x, y+1, obj_block)){
+if(global.doubleJump and jumpCounter < 1 and keyboard_check_pressed(vk_up) and !instance_place(x, y+1, obj_block)){
 	vspeed = jump_height *.75
 	jumpCounter++
 }
@@ -31,9 +31,10 @@ if(vspeed > 15)
 		vspeed = 15
 
 //Attack
-if(keyboard_check_pressed(ord("Z")) and canAttack)
+if(keyboard_check_pressed(ord("Z")) and global.canAttack)
 	instance_create_layer(x,y,"Instances",Obj_sword)
 
 //transparent when invulnerable
 if(invulnerable)
 	image_alpha = 0.5
+
