@@ -8,7 +8,7 @@ invulnerable = false //stores players invulnerability state
 
 //player unlockable abilities
 canAttack = false
-doubleJump = false
+doubleJump = true
 resistant = false
 
 jumpCounter = 0

@@ -25,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_pond",
-    "path": "sprites/spr_pond/spr_pond.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

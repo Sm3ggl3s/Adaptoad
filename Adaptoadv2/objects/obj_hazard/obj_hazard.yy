@@ -28,10 +28,7 @@
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"damage_amount","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"10","varType":0,},
   ],
   "solid": false,
-  "spriteId": {
-    "name": "spr_hazard",
-    "path": "sprites/spr_hazard/spr_hazard.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
