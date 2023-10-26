@@ -1,8 +1,12 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
+    {"name":"Obj_projectile_spawner","order":4,"path":"objects/Obj_projectile_spawner/Obj_projectile_spawner.yy",},
+    {"name":"Obj_projectile","order":3,"path":"objects/Obj_projectile/Obj_projectile.yy",},
     {"name":"spr_pond","order":1,"path":"sprites/spr_pond/spr_pond.yy",},
     {"name":"obj_pond","order":1,"path":"objects/obj_pond/obj_pond.yy",},
+    {"name":"Spr_projectile","order":1,"path":"sprites/Spr_projectile/Spr_projectile.yy",},
+    {"name":"Obj_enemy_spawner","order":5,"path":"objects/Obj_enemy_spawner/Obj_enemy_spawner.yy",},
     {"name":"Main_Level","order":1,"path":"rooms/Main_Level/Main_Level.yy",},
     {"name":"Obj_jumper","order":2,"path":"objects/Obj_jumper/Obj_jumper.yy",},
   ],
