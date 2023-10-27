@@ -32,7 +32,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.92",
+    "IDEVersion": "2023.8.1.102",
   },
   "resources": [
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
@@ -48,10 +48,7 @@
     {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},},
     {"id":{"name":"spr_attack","path":"sprites/spr_attack/spr_attack.yy",},},
     {"id":{"name":"tileset0","path":"tilesets/tileset0/tileset0.yy",},},
-    {"id":{"name":"snd_get_mushroom","path":"sounds/snd_get_mushroom/snd_get_mushroom.yy",},},
-    {"id":{"name":"snd_kill_character","path":"sounds/snd_kill_character/snd_kill_character.yy",},},
     {"id":{"name":"spr_pond","path":"sprites/spr_pond/spr_pond.yy",},},
-    {"id":{"name":"snd_kill_monster","path":"sounds/snd_kill_monster/snd_kill_monster.yy",},},
     {"id":{"name":"snd_push","path":"sounds/snd_push/snd_push.yy",},},
     {"id":{"name":"Obj_sword","path":"objects/Obj_sword/Obj_sword.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
@@ -71,6 +68,7 @@
     {"roomId":{"name":"Test","path":"rooms/Test/Test.yy",},},
     {"roomId":{"name":"Main_Level","path":"rooms/Main_Level/Main_Level.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],
