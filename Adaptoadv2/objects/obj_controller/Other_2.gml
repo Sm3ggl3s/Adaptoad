@@ -1,5 +1,5 @@
 room_goto(Main_Level)
 
 global.canAttack = false
-global.doubleJump = true
+global.doubleJump = false
 global.resistant = false
