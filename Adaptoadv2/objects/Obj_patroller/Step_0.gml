@@ -15,9 +15,18 @@ if(instance_exists(obj_player)){
             hspeed = temp
     }
 }
+/*
 if(hspeed > 0)
     image_xscale = xscale
+	//direction = 0
 else
     image_xscale = -xscale
-
-
+	//direction = 180
+*/
+// change direction on path
+if(abs(angle_difference(180, direction)) < 90) {
+	image_xscale = -1
+}
+else {
+	image_xscale = 1	
+}

@@ -12,5 +12,12 @@ function damage(amount, type){
 		obj_player.alarm[0] = 100
 		if(health <= 0)
 			obj_player.alarm[1] = 1
+			
+		// play frog croak when player takes damage (as long as still alive)
+		if(health > 0) {
+			// sound from freesound.com:
+			//https://freesound.org/people/InspectorJ/sounds/484763/
+			audio_play_sound(snd_frog_dmg, 10, false)
+		}
 	}
 }

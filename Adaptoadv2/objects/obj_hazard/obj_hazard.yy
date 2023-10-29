@@ -33,5 +33,5 @@
     "path": "sprites/spr_hazard/spr_hazard.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
