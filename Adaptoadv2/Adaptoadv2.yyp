@@ -73,6 +73,7 @@
     {"id":{"name":"Main_Level","path":"rooms/Main_Level/Main_Level.yy",},},
     {"id":{"name":"obj_hazard","path":"objects/obj_hazard/obj_hazard.yy",},},
     {"id":{"name":"Obj_jumper","path":"objects/Obj_jumper/Obj_jumper.yy",},},
+    {"id":{"name":"tml_spawn","path":"timelines/tml_spawn/tml_spawn.yy",},},
     {"id":{"name":"Obj_enemy_spawner","path":"objects/Obj_enemy_spawner/Obj_enemy_spawner.yy",},},
     {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},},
     {"id":{"name":"obj_monster_dead","path":"objects/obj_monster_dead/obj_monster_dead.yy",},},
