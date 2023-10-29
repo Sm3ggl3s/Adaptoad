@@ -10,3 +10,10 @@ else if(keyboard_check_pressed(ord("N")))
 	room_goto_next()
 else if(keyboard_check_pressed(ord("P")))
 	room_goto_previous()
+	
+// cheat code to give all evolutions
+else if(keyboard_check_pressed(ord("U"))) {
+	global.doubleJump = true
+	global.canAttack = true
+	global.resistant = true
+}
