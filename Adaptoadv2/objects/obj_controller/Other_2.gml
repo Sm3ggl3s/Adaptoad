@@ -6,6 +6,7 @@ global.resistant = false
 
 global.counter = 0
 
+global.bossfight = false
 // ambience
 // sound from freesound.com:
 // https://freesound.org/people/digifishmusic/sounds/57670/

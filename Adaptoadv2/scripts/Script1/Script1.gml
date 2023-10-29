@@ -4,7 +4,7 @@
 function damage(amount, type){
 	if(!obj_player.invulnerable){
 		if(global.resistant and type == 0){
-			amount -= 9
+			amount -= 25
 		}
 		obj_player.players_damage[type] += amount
 		health -= amount
