@@ -2,11 +2,13 @@
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
     {"name":"tlset_branch_flat","order":1,"path":"tilesets/tlset_branch_flat/tlset_branch_flat.yy",},
+    {"name":"obj_spawn_point","order":6,"path":"objects/obj_spawn_point/obj_spawn_point.yy",},
     {"name":"tlset_poison_leaf_a","order":2,"path":"tilesets/tlset_poison_leaf_a/tlset_poison_leaf_a.yy",},
     {"name":"Obj_poison_spawner","order":3,"path":"objects/Obj_poison_spawner/Obj_poison_spawner.yy",},
     {"name":"spr_branch_flat","order":3,"path":"sprites/spr_branch_flat/spr_branch_flat.yy",},
     {"name":"Spr_poison","order":1,"path":"sprites/Spr_poison/Spr_poison.yy",},
     {"name":"snd_ambience","order":1,"path":"sounds/snd_ambience/snd_ambience.yy",},
+    {"name":"obj_spawn_controller","order":7,"path":"objects/obj_spawn_controller/obj_spawn_controller.yy",},
     {"name":"Obj_poison","order":4,"path":"objects/Obj_poison/Obj_poison.yy",},
     {"name":"snd_bug_defeated","order":3,"path":"sounds/snd_bug_defeated/snd_bug_defeated.yy",},
     {"name":"spr_pond","order":1,"path":"sprites/spr_pond/spr_pond.yy",},
