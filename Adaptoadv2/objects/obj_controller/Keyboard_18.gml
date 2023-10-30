@@ -5,6 +5,13 @@ if(keyboard_check_pressed(ord("R")))
 else if(keyboard_check_pressed(ord("G")))
 	game_restart()
 	
+// cheat code to teleport to boss fight
+else if(keyboard_check_pressed(ord("B"))) {
+	if(instance_exists(obj_player)) {
+		obj_player.x = 882
+		obj_player.y = 102
+	}
+}
 	
 // cheat code to give all evolutions
 else if(keyboard_check_pressed(ord("U"))) {

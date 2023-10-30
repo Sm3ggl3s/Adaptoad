@@ -60,8 +60,6 @@ if(instance_exists(obj_player)) {
 			speed = hsp
 		}
 		
-		// in the tracking state, handle colliding with blocks
-		// TODO: check if a block is in the patroller's way, prevent it from going through it
 	}
 	
 	// if the patroller is in Return state...
