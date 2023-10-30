@@ -32,7 +32,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.1.102",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"tlset_branch_flat","path":"tilesets/tlset_branch_flat/tlset_branch_flat.yy",},},
@@ -58,6 +58,7 @@
     {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},},
     {"id":{"name":"snd_bug_defeated","path":"sounds/snd_bug_defeated/snd_bug_defeated.yy",},},
     {"id":{"name":"spr_attack","path":"sprites/spr_attack/spr_attack.yy",},},
+    {"id":{"name":"spr_hammer","path":"sprites/spr_hammer/spr_hammer.yy",},},
     {"id":{"name":"spr_pond","path":"sprites/spr_pond/spr_pond.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"snd_push","path":"sounds/snd_push/snd_push.yy",},},
@@ -66,6 +67,7 @@
     {"id":{"name":"spr_player_resist","path":"sprites/spr_player_resist/spr_player_resist.yy",},},
     {"id":{"name":"path_patroller_1","path":"paths/path_patroller_1/path_patroller_1.yy",},},
     {"id":{"name":"spr_player_attack","path":"sprites/spr_player_attack/spr_player_attack.yy",},},
+    {"id":{"name":"tlset_hammer","path":"tilesets/tlset_hammer/tlset_hammer.yy",},},
     {"id":{"name":"spr_poison_leaf_a","path":"sprites/spr_poison_leaf_a/spr_poison_leaf_a.yy",},},
     {"id":{"name":"spr_poison_leaf_b","path":"sprites/spr_poison_leaf_b/spr_poison_leaf_b.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
