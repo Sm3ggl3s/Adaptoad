@@ -2,7 +2,9 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_controls_button",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -30,5 +32,5 @@
     "path": "sprites/spr_control_butotn/spr_control_butotn.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

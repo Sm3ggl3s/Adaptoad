@@ -1,9 +1,9 @@
 {
   "FolderOrderSettings": [
+    {"name":"Menu_Controls","order":10,"path":"folders/Objects/Menu_Controls.yy",},
     {"name":"Backgrounds","order":5,"path":"folders/Sprites/Backgrounds.yy",},
     {"name":"Enemies","order":6,"path":"folders/Sprites/Enemies.yy",},
     {"name":"Menu_Items","order":21,"path":"folders/Sprites/Menu_Items.yy",},
-    {"name":"Menu_Controls","order":10,"path":"folders/Objects/Menu_Controls.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"tlset_branch_flat","order":1,"path":"tilesets/tlset_branch_flat/tlset_branch_flat.yy",},

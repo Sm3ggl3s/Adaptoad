@@ -1,7 +1,7 @@
 if(!invulnerable){
 	boss_health -= 10
 	invulnerable = true
-	alarm[1] = 100
+	alarm[1] = 200
 	image_alpha = 0.5
 }
 if(boss_health <= 0) {

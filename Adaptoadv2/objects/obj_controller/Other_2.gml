@@ -1,4 +1,4 @@
-room_goto(Main_Level)
+room_goto(Main_Menu)
 
 global.canAttack = false
 global.doubleJump = false

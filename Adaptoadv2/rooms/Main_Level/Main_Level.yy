@@ -76,6 +76,7 @@
     {"name":"inst_95BC1AD","path":"rooms/Main_Level/Main_Level.yy",},
     {"name":"inst_22B4B099","path":"rooms/Main_Level/Main_Level.yy",},
     {"name":"inst_CD0AD85","path":"rooms/Main_Level/Main_Level.yy",},
+    {"name":"inst_F9CA8DB","path":"rooms/Main_Level/Main_Level.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -119,6 +120,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_CD0AD85","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Obj_enemy_spawner","path":"objects/Obj_enemy_spawner/Obj_enemy_spawner.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"Obj_enemy_spawner","path":"objects/Obj_enemy_spawner/Obj_enemy_spawner.yy",},"propertyId":{"name":"enemy_type","path":"objects/Obj_enemy_spawner/Obj_enemy_spawner.yy",},"value":"Obj_jumper",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":736.0,"y":256.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_F9CA8DB","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Poison_Area_Tiles_A","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":68,"SerialiseWidth":120,"TileCompressedData":[
 -2863,-2147483648,15,0,1,2,0,1,2,0,1,2,0,1,2,0,1,2,-105,-2147483648,15,3,4,5,3,4,5,3,4,5,3,4,5,3,4,5,-105,-2147483648,15,6,7,8,6,7,8,6,7,8,6,7,8,6,7,8,-184,-2147483648,14,0,1,2,0,1,2,-2147483648,-2147483648,0,1,2,0,1,2,-106,-2147483648,14,3,4,5,3,4,5,-2147483648,-2147483648,3,4,5,3,4,5,-58,-2147483648,6,0,1,2,0,1,2,-42,-2147483648,14,6,7,8,6,7,8,-2147483648,-2147483648,6,7,8,6,7,8,-58,-2147483648,6,3,4,5,
