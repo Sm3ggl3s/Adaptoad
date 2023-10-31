@@ -4,8 +4,9 @@ if(!global.bossfight)
 
 // pause backgoround sound
 // play new bossfight music
-audio_pause_sound(snd_ambience)
+
 if(!global.bossfight) {
+	audio_stop_all()
 	audio_play_sound(snd_boss_fight, 10, true)
 }
 global.bossfight = true
