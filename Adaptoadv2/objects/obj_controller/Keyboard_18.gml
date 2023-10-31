@@ -8,8 +8,8 @@ else if(keyboard_check_pressed(ord("G")))
 // cheat code to teleport to boss fight
 else if(keyboard_check_pressed(ord("B")) and instance_exists(obj_player)) {
 	if(instance_exists(obj_player)) {
-		obj_player.x = 882
-		obj_player.y = 102
+		obj_player.x = 832
+		obj_player.y = 262
 	}
 }
 	

@@ -4,11 +4,15 @@ if(alpha < 1){
 }
 
 if(alpha >= 1){
-    room_goto(Lose_Screen)
-	global.bossfight = false
-	global.canAttack = false
-	global.doubleJump = false
-	global.resistant = false
+	if(health <= 0){
+		room_goto(Lose_Screen)
+		global.bossfight = false
+		global.canAttack = false
+		global.doubleJump = false
+		global.resistant = false
+	}
+	else
+		room_restart()
 }
 
 
